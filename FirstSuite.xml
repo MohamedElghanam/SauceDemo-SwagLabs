@@ -1,0 +1,9 @@
+<suite name="First Suite" verbose="1">
+    <test name="First Test">
+        <classes>
+            <class name="LoginPageTest"/>
+            <class name="AllItemsPage"/>
+            <class name="CheckoutPage"/>
+        </classes>
+    </test>
+</suite>
